@@ -3,6 +3,6 @@
  - Site : https://programmers.co.kr/
 
 # 해결 문제
- | 이름 | 내 풀이 | 풀이 언어 | Number | 레벨 | URL |  
+ | 이름 | 내 풀이 | 사용 언어 | Number | 레벨 | 원문 |  
  | ---- | ---- | ------ | --- | ---- | ---- |
- | 신규 아이디 추천 | [Code](https://github.com/Noonsom/Programmers/tree/main/72410) | C++ | 72410 | Lv.1 | https://programmers.co.kr/learn/courses/30/lessons/72410 |
+ | 신규 아이디 추천 | [Code](https://github.com/Noonsom/Programmers/tree/main/72410) | C++ | 72410 | Lv.1 | [Origin](https://programmers.co.kr/learn/courses/30/lessons/72410) |
